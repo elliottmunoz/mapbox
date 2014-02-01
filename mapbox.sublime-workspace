@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"A",
+				"attributeName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"colo",
+				"Package Control: Remove Package"
+			],
+			[
+				"livereload",
+				"LiveReload: Help"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elliottmunoz/GitHub/mapbox/africa.html",
+		"/Users/elliottmunoz/GitHub/mapbox/mapbox.sublime-project",
+		"/Users/elliottmunoz/GitHub/mapbox/assets/stylesheets/mapbox.css",
+		"/Users/elliottmunoz/GitHub/mapbox/assets/javascripts/africa",
+		"/Users/elliottmunoz/Library/Application Support/Sublime Text 3/Packages/User/Snippets/svg.sublime-snippet",
+		"/Users/elliottmunoz/Library/Application Support/Sublime Text 3/Packages/User/Snippets/html.sublime-snippet",
+		"/Users/elliottmunoz/Desktop/tester.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/scratch.svg",
+		"/Users/elliottmunoz/GitHub/svg/eye.html",
+		"/Users/elliottmunoz/GitHub/svg/svg/eye.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/stroke.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/hamburger-cross-button.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/stroke",
+		"/Users/elliottmunoz/GitHub/svg/svg/play.svg",
+		"/Users/elliottmunoz/GitHub/svg/index.html",
+		"/Users/elliottmunoz/GitHub/svg/svg/mail.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/maximize-rotate.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/trash.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/maximize.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg.sublime-project",
+		"/Volumes/SharedDisk/Clients (Server)/WCS/03.Projects/DoD App/Design/Design_comps/Resources/Vector/svg/magnify.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/compress.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/plus-cross.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/contract.svg",
+		"/Users/elliottmunoz/Library/Application Support/Sublime Text 3/Packages/User/Snippets/svg",
+		"/Users/elliottmunoz/GitHub/case/index.html",
+		"/Users/elliottmunoz/GitHub/case/assets/stylesheets/case.css",
+		"/Users/elliottmunoz/GitHub/case/case.sublime-project",
+		"/Users/elliottmunoz/GitHub/svg/svg/hamburger.svg",
+		"/Users/elliottmunoz/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/elliottmunoz/GitHub/svg/svg/nav-left-arrow.svg",
+		"/Users/elliottmunoz/Desktop/svg/circle.svg",
+		"/Users/elliottmunoz/GitHub/svg/interactive.html",
+		"/Users/elliottmunoz/GitHub/svg/svg/hamburger-cross.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/svg.sublime-project",
+		"/Users/elliottmunoz/GitHub/svg/svg/right-arrow.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/plus.svg",
+		"/Users/elliottmunoz/GitHub/svg/svg/nav-up-arrow.svg",
+		"/Users/elliottmunoz/Desktop/svg.svg",
+		"/Users/elliottmunoz/Desktop/sample_svg_code.svg",
+		"/Users/elliottmunoz/GitHub/svg/windows.svg",
+		"/Users/elliottmunoz/GitHub/elliottmunoz.github.io/index.html",
+		"/Users/elliottmunoz/Desktop/svg/eye.svg",
+		"/Users/elliottmunoz/Desktop/svg/path_circle.svg",
+		"/Users/elliottmunoz/Desktop/svg/eye.xml",
+		"/Users/elliottmunoz/Desktop/circle.svg",
+		"/Users/elliottmunoz/Desktop/svg/animated_line.svg",
+		"/Users/elliottmunoz/Desktop/eye_animated.svg",
+		"/Users/elliottmunoz/Pictures/Desktop/eye_animated.svg",
+		"/eye_animated.svg",
+		"/Users/elliottmunoz/Documents/96Elephants/Map/Data/new-york.osm2pgsql-shapefiles/new-york.osm-point.prj",
+		"/Users/elliottmunoz/Documents/96Elephants/Map/Data/new-york.osm2pgsql-shapefiles/new-york.osm-point.shp",
+		"/Users/elliottmunoz/Documents/96Elephants/Map/Data/new-york.osm2pgsql-shapefiles/new-york.osm-point.shx",
+		"/Users/elliottmunoz/Documents/96Elephants/Map/Data/new-york.osm2pgsql-shapefiles/new-york.osm-point.dbf",
+		"/Users/elliottmunoz/Desktop/circles.svg",
+		"/Users/elliottmunoz/Desktop/mark_gold.svg",
+		"/Users/elliottmunoz/Desktop/MBTles/96Elephants.xml",
+		"/Users/elliottmunoz/Desktop/MBTiles/metadata.json",
+		"/Users/elliottmunoz/Desktop/96Elephants.xml"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"L"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "mapbox.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"svg/maximize.svg"
+			],
+			[
+				"inter",
+				"interactive.html"
+			],
+			[
+				"svg",
+				"svg/scratch.svg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
