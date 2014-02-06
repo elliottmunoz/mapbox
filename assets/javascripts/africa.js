@@ -90,7 +90,7 @@ map.on('resize', function() {
 */
 
 
-/*
+
 // Set a custom icon on each marker based on feature properties
 map.markerLayer.on('layeradd', function (e) {
     var marker = e.layer,
@@ -99,4 +99,3 @@ map.markerLayer.on('layeradd', function (e) {
 });
 
 // Add features to the map
-*/
