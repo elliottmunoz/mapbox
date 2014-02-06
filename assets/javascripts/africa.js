@@ -1,3 +1,4 @@
+
 /*
 var geo = [];
     
@@ -53,7 +54,6 @@ function setMarkers() {
             }
         });
     }
-    return geo;
 }
 
 setMarkers();
@@ -61,7 +61,7 @@ setMarkers();
 
 var map = L.mapbox.map('map', 'elliottmunoz.h1h555k8')
     .setView([6.534, 15.161], 5);
-//var geoJson = setMarkers();
+var geoJson = setMarkers();
 
 
 var markerLayer = L.mapbox.markerLayer()
@@ -87,8 +87,8 @@ map.on('resize', function() {
     var width=dimensions.x;
     respond(width);
 });
-
 */
+
 
 /*
 // Set a custom icon on each marker based on feature properties
@@ -99,5 +99,4 @@ map.markerLayer.on('layeradd', function (e) {
 });
 
 // Add features to the map
-map.markerLayer.setGeoJSON(geoJson);
 */

@@ -2,78 +2,33 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
-      "properties": {
-        "Name": "Bronx Zoo",
-        "Address": "2300 Southern Blvd, Bronx, NY 10460",
-        "Phone": "(718) 367-1010"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.8764476776123,
-          40.85011186985922
+          7.178,
+          9.18787
         ]
-      }
-    },
-    {
+      },
       "type": "Feature",
       "properties": {
-        "Name": "Central Park Zoo",
-        "Address": "64th St and 5th Ave, New York, NY 10021",
-        "Phone": "(212) 439-6500"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.97177338600159,
-          40.76781794144681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Prospect Park Zoo",
-        "Address": "450 Flatbush Ave, New York, NY 11225",
-        "Phone": "(718) 399-7339"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.96491765975952,
-          40.665559825341205
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Queens Zoo",
-        "Address": "53-51 111th St, Flushing, NY 11368",
-        "Phone": "(718) 271-1500"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.84881019592284,
-          40.74504607583721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "New York Aquarium",
-        "Address": "602 Surf Ave, Brooklyn, NY 11224",
-        "Phone": "(718) 265-3474"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.97485256195068,
-          40.57425300886387
-        ]
+        "Name": "Abuja, Nigeria",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
       }
     }
   ]
