@@ -61,7 +61,7 @@ setMarkers();
 
 var map = L.mapbox.map('map', 'elliottmunoz.h1h555k8')
     .setView([6.534, 15.161], 5);
-var geoJson = setMarkers();
+//var geoJson = setMarkers();
 
 
 var markerLayer = L.mapbox.markerLayer()
