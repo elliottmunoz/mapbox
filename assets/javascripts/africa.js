@@ -1,3 +1,4 @@
+/*
 var geo = [];
     
 var markers=[];
@@ -30,6 +31,7 @@ locations[20] = ["Wonga Wongue National Park", 9.5, -.416667,  markers[2]];
 locations[21] = ["Yankari", 10.496394, 9.815568, markers[1]];
 locations[22] = ["Zakouma National Park", 19.692678, 10.850037, markers[2]];
 
+
 function setMarkers() {
     for (i = 0; i < locations.length; i++) {
         geo.push({
@@ -55,11 +57,18 @@ function setMarkers() {
 }
 
 setMarkers();
+*/
 
 var map = L.mapbox.map('map', 'elliottmunoz.h1h555k8')
     .setView([6.534, 15.161], 5);
-var geoJson = setMarkers();
+//var geoJson = setMarkers();
 
+
+var markerLayer = L.mapbox.markerLayer()
+    .loadURL('wcs.geojson')
+    .addTo(map);
+
+/*
 function respond(x){
     if(x>=640){
       map.setZoom(5);
@@ -79,25 +88,16 @@ map.on('resize', function() {
     respond(width);
 });
 
+*/
 
-
-var polygon_options = {
-    color: '#fff', // Stroke color
-    opacity: 0.5, // Stroke opacity
-    weight: 1, // Stroke weight
-    fillColor: '#fff', // Fill color
-    fillOpacity: 0.3 // Fill opacity
-};
-
-
-
+/*
 // Set a custom icon on each marker based on feature properties
 map.markerLayer.on('layeradd', function (e) {
     var marker = e.layer,
         feature = marker.feature;
-
     marker.setIcon(L.icon(feature.properties.icon));
 });
 
 // Add features to the map
 map.markerLayer.setGeoJSON(geoJson);
+*/
