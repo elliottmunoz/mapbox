@@ -65,7 +65,7 @@ var map = L.mapbox.map('map', 'elliottmunoz.h1h555k8')
 
 
 var markerLayer = L.mapbox.markerLayer()
-    .loadURL('wcs.geojson')
+    .loadURL('/mapbox/assets/javascripts/wcs.geojson')
     .addTo(map);
 
 /*
