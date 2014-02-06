@@ -30,6 +30,336 @@
           "className": "marker"
         }
       }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.466702,
+          6.16667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Boma, South Sudan",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.28991,
+          -4.25502
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Brazzaville, Congo",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.47,
+          -3.905
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Conkouati-Douli National Park",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3488,
+          6.1594
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Cross River-Takamanda",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.333332,
+          3.1
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Dzanga-Sangha",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.845,
+          0.563889
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Ivindo",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45738,
+          0.39346
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Libreville, Gabon",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.75,
+          5.833333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Mbam et Djerem National Park",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.759503,
+          1.679772
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Minkébé National Park",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.461803,
+          -13.059384
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Niassa",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.450001,
+          2.466667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Nouabalé-Ndoki National Park",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
     }
   ]
 }
