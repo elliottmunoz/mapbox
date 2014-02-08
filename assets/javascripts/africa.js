@@ -61,7 +61,10 @@ setMarkers();
 
 var map = L.mapbox.map('map', 'elliottmunoz.h1h555k8')
     .setView([6.534, 15.161], 5);
-//var geoJson = setMarkers();
+    
+var markerLayer = L.mapbox.markerLayer()
+    .loadURL('/mapbox/assets/javascripts/wcs.geojson')
+    .addTo(map);
 
 // Set a custom icon on each marker based on feature properties
 map.markerLayer.on('layeradd', function (e) {
@@ -71,9 +74,7 @@ map.markerLayer.on('layeradd', function (e) {
 });
 
 
-var markerLayer = L.mapbox.markerLayer()
-    .loadURL('/mapbox/assets/javascripts/wcs.geojson')
-    .addTo(map);
+
 
 /*
 function respond(x){
