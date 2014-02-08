@@ -135,4 +135,4 @@ map.on('resize', function() {
 
 
 // Add features to the map
-map.markerLayer.setGeoJSON(geoJson);
+map.markerLayer.setGeoJSON(markerLayer);
