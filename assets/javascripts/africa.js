@@ -61,10 +61,49 @@ setMarkers();
 
 var map = L.mapbox.map('map', 'elliottmunoz.h1h555k8')
     .setView([6.534, 15.161], 5);
-    
+
+
 var markerLayer = L.mapbox.markerLayer()
     .loadURL('/mapbox/assets/javascripts/wcs.geojson')
     .addTo(map);
+//var geoJson = setMarkers();
+/*
+var geoJson={
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.178,
+          9.18787
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Abuja, Nigeria",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    }
+  ]
+}
+*/
 
 // Set a custom icon on each marker based on feature properties
 map.markerLayer.on('layeradd', function (e) {
@@ -72,9 +111,6 @@ map.markerLayer.on('layeradd', function (e) {
         feature = marker.feature;
     marker.setIcon(L.icon(feature.properties.icon));
 });
-
-
-
 
 /*
 function respond(x){
@@ -98,7 +134,5 @@ map.on('resize', function() {
 */
 
 
-
-
-
 // Add features to the map
+map.markerLayer.setGeoJSON(geoJson);
