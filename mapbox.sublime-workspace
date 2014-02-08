@@ -72,12 +72,14 @@
 	},
 	"file_history":
 	[
+		"/Users/elliottmunoz/GitHub/mapbox/assets/javascripts/denver.js",
+		"/Users/elliottmunoz/Downloads/food_circle.svg",
+		"/Users/elliottmunoz/Desktop/icons.txt",
 		"/Users/elliottmunoz/GitHub/mapbox/assets/javascripts/wcs.geojson",
 		"/Users/elliottmunoz/GitHub/mapbox/assets/javascripts/africa.js",
 		"/Users/elliottmunoz/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
 		"/Users/elliottmunoz/GitHub/mapbox/index.html",
 		"/Users/elliottmunoz/GitHub/mapbox/denver.html",
-		"/Users/elliottmunoz/GitHub/mapbox/assets/javascripts/denver.js",
 		"/Users/elliottmunoz/GitHub/mapbox/africa.html",
 		"/Users/elliottmunoz/GitHub/mapbox/assets/stylesheets/mapbox.css",
 		"/Users/elliottmunoz/GitHub/mapbox/mapbox.sublime-project",
@@ -260,7 +262,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 197.0,
 	"status_bar_visible": true,
 	"template_settings":

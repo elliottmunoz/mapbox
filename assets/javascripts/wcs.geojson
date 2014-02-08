@@ -360,6 +360,337 @@
           "className": "marker"
         }
       }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.777800,
+          -0.334730
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Odzala, Gabon",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.546000,
+          1.718329
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Okapi Faunal Reserve",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.490398,
+          -12.963500
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Pemba",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.865920,
+          -4.778850,
+          2.466667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Pointe-Noire, Congo",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.621601,
+          -7.474559
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Ruaha National Park",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.372066,
+          -8.794423
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Selous Game Reserve",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.679956,
+          6.473515
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Southern N.P.",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.016701,
+          -3.533330
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Tarangire",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5,
+          -.416667
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Wonga Wongue National Park",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.496394,
+          9.815568
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Yankari",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.692678,
+          10.850037
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "Name": "Zakouma National Park",
+        "description": "",
+        "icon": {
+          "iconUrl": "http://f.cl.ly/items/3v1z1M0q3l1L3t0M041p/marker_white.png",
+          "iconSize": [
+            31,
+            31
+          ],
+          "iconAnchor": [
+            15,
+            15
+          ],
+          "popupAnchor": [
+            0,
+            -21
+          ],
+          "className": "marker"
+        }
+      }
     }
   ]
 }
